@@ -37,7 +37,7 @@
 ---
 Клікаємо на меню і тиснемо налаштувати
 
-![Як змінювати  меню](img/menu.png)
+![Як змінювати меню](img/menu.png)
 
 ---
 # Як переключатись між сторінками
@@ -85,4 +85,19 @@
 ---
 # Тепер наш сайт повністю готовий
 ---
+
 ## Сподіваюся мій туторіал був корисним!
+
+---
+# Додаткові матеріали
+---
+
+Ми пропонуємо вам готові картинки для того щоб ви підставили їх на свій сайт
+
+[Фото людини](https://drive.google.com/file/d/1lZqzbHPUTKPaP0sDrIaAL4Qem7TykFEP/view?usp=sharing)
+
+[Фото 1](https://drive.google.com/file/d/16CxmK_N9-7JYsMKJ2CxS5Rdq6Y49TDUS/view?usp=sharing)
+
+[Фото 2](https://drive.google.com/file/d/1U2D_YnbxFixg4b60ZIwp4ilFoLeXBPGJ/view?usp=sharing)
+
+[Фото 3](https://drive.google.com/file/d/12qECswpbtoqtMjHMLF6q-T9E7T5ZwkpR/view?usp=sharing)
